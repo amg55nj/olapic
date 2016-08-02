@@ -1,0 +1,24 @@
+.slider {
+	position: relative;
+	max-width: 1180px;
+}
+
+.previous-link, .next-link {
+	width: 50px;
+	height: 100px;
+	margin: auto;
+	color: black;
+	font-weight: bold;
+}
+
+.slider-container {
+	width: 600px;
+	overflow: hidden;
+	margin: 0 auto;
+	position: relative;
+}
+
+.slider-footer {
+	display: block;
+	font-size: 24px;
+}
